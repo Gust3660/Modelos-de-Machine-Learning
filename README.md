@@ -1,4 +1,4 @@
-# Simulacion3502
+# Modelos de ML (Machine Learning)
 
 # 📘 Modelos Matemáticos en Jupyter Notebooks
 
