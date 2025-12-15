@@ -26,6 +26,11 @@ Este repositorio contiene una colección de **notebooks (.ipynb)** con modelos m
   Modelos de probabilidad: distribuciones discretas y continuas, teorema de Bayes.  
   ➡️ Base para APIs de predicción y análisis probabilístico.
 
+- '11_Support_Vector_Machine.ipynb'
+  Modelo de maquinas de soporte vectorial
+   ➡️ Util para la creacion de APIs que requieran procesamiento matematico
+  para manejo de la informacion.
+
 ---
 
 ## 🚀 Cómo usar los notebooks
